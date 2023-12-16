@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tabs xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <tab
+        drawable="@drawable/home"
+        text="@string/home" />
+    <tab
+        drawable="@drawable/scan"
+        text="@string/scan" />
+</Tabs>

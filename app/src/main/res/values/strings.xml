@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoFX</string>
+    <string name="home">Home</string>
+    <string name="scan">Scan</string>
+</resources>
